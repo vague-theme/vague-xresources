@@ -6,9 +6,9 @@
 
 ## Usage
 
-1. Copy the contents of `vague` file to your `.Xresources` file.
+1. Copy the contents of [vague](vague) file to your `.Xresources` file.
 
-2. Reload to take effect:
+2. Apply the changes by running:
    ```sh
    xrdb ~/.Xresources
    ```
